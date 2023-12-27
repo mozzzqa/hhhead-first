@@ -1,4 +1,4 @@
-fun main() {
+fun main_three() {
     val wordArray1 = arrayOf("24/7", "multi-tier", "B-to-B", "dynamic", "pervasive")
     val wordArray2 = arrayOf("empowered", "leveraged", "aligned", "targeted")
     val wordArray3 = arrayOf("process", "paradigm", "solution", "portal", "vision")
@@ -12,5 +12,10 @@ fun main() {
     val rand3 = (Math.random() * arraySize3).toInt()
 
     val phrase = "${wordArray1[rand1]} ${wordArray2[rand2]} ${wordArray3[rand3]}"
-    print(phrase)
+    println(phrase)
+
+    var myArray = arrayOf(1, 2, 3)
+
+    var result = "myArray is ${if (myArray.size > 10) "large" else "small"}"
+    print(result)
 }
