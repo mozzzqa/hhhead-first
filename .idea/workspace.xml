@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e34464ed-0da7-43e1-a507-e33ae6312fe6" name="Changes" comment="end with custom fun" />
+    <list default="true" id="e34464ed-0da7-43e1-a507-e33ae6312fe6" name="Changes" comment="sync main">
+      <change afterPath="$PROJECT_DIR$/src/1st_class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hhhead-first/META-INF/hhhead-first.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/hhhead-first/META-INF/hhhead-first.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/hhhead-first/Main_gameKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main_game.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/main_game.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +76,7 @@
     "Kotlin.Main_gameKt.executor": "Run",
     "Kotlin.Main_sevenKt.executor": "Run",
     "Kotlin.Main_sixKt.executor": "Run",
+    "Kotlin._1st_classKt.executor": "Run",
     "Repository.Attach.Annotations": "true",
     "Repository.Attach.JavaDocs": "true",
     "Repository.Attach.Sources": "true",
@@ -117,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711525105726</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sync main">
+      <option name="closed" value="true" />
+      <created>1711573337748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711573337748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +161,168 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="end with custom fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="end with custom fun" />
+    <MESSAGE value="sync main" />
+    <option name="LAST_COMMIT_MESSAGE" value="sync main" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="kotlin-function">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-function">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>7</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-function">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>10</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-function">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>32</line>
+          <properties>
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>37</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint type="kotlin-line">
+          <url>file://$PROJECT_DIR$/last main/src/main_game.kt</url>
+          <line>41</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
