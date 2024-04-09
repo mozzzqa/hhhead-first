@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e34464ed-0da7-43e1-a507-e33ae6312fe6" name="Changes" comment="sync main">
+    <list default="true" id="e34464ed-0da7-43e1-a507-e33ae6312fe6" name="Changes" comment="2st_class">
+      <change afterPath="$PROJECT_DIR$/src/second_class/2nd_class.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AnimalS_class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalS_class.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/Main_def.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/Main_def.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/Main_two.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/Main_two.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/PhraseOMatic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/PhraseOMatic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/for.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/for.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/last main/main_seven.kt" beforeDir="false" afterPath="$PROJECT_DIR$/last main/src/main_seven.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnimalS.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnimalS.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -65,31 +71,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
-    &quot;Kotlin.ForKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ForrrKt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.Main_gameKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main_sevenKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Main_sixKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin._1st_classKt.executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "true",
+    "Kotlin.ForKt.executor": "Run",
+    "Kotlin.ForrrKt.executor": "Debug",
+    "Kotlin.Main_gameKt.executor": "Run",
+    "Kotlin.Main_sevenKt.executor": "Run",
+    "Kotlin.Main_sixKt.executor": "Run",
+    "Kotlin._1st_classKt.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/last main/src" />
@@ -130,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711573337748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2st_class">
+      <option name="closed" value="true" />
+      <created>1712591608512</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712591608513</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,7 +174,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="end with custom fun" />
     <MESSAGE value="sync main" />
-    <option name="LAST_COMMIT_MESSAGE" value="sync main" />
+    <MESSAGE value="2st_class" />
+    <option name="LAST_COMMIT_MESSAGE" value="2st_class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
