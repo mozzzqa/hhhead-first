@@ -1,3 +1,4 @@
+import second_class.Vehicle
 import second_class.Vet
 
 fun main(args: Array<String>) {
@@ -12,5 +13,8 @@ fun main(args: Array<String>) {
     val hippo = Hippo()
     vet.giveShot(Wolf)
     vet.giveShot(hippo)
+
+    val vehicle = Vehicle()
+    vehicle.roam()
 
 }

@@ -1,18 +1,16 @@
-open class AnimalS_class() {
-    open val image = ""
-    open val food = ""
-    open val habibat = ""
+import second_class.Roamable
+
+abstract class AnimalS_class : Roamable {
+    abstract val image: String
+    abstract val food: String
+    abstract val habibat: String
     var hunger = 10
 
-    open fun makeNoise() {
-        println("The ANIMAL IS MAKing a noise")
-    }
+    abstract fun makeNoise()
 
-    open fun eat() {
-        println("The ANImal is eating")
-    }
+    abstract fun eat()
 
-    open fun roam() {
+    override fun roam() {
         println("The aniMAL is roaming")
     }
 
@@ -35,7 +33,7 @@ class Hippo : AnimalS_class() {
     }
 }
 
-open class Canine : AnimalS_class() {
+abstract class Canine : AnimalS_class() {
     override fun roam() {
         println("tHe caninE is roaming")
     }
