@@ -17,4 +17,12 @@ fun main(args: Array<String>) {
     val vehicle = Vehicle()
     vehicle.roam()
 
+    val roamables = arrayOf(Hippo(), wolf(), Vehicle())
+    for (item in roamables) {
+        item.roam()
+        if (item is AnimalS_class) {
+            item.eat()
+        }
+    }
+
 }
