@@ -1,6 +1,7 @@
 package second_class
 
 import AnimalS_class
+import wolf
 
 interface Roamable {
     fun roam()
